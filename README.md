@@ -6,13 +6,13 @@
 
 ## 🔬 Bilimsel Çalışmalar ve Projeler (Scientific Projects)
 
-### 1️⃣ KOKEN CEM43 Toolkit v1 — Hipertermi Doz Hesaplayıcı
-* **Açıklama:** Kanser ısı tedavisinde (Hipertermi) kümülatif biyolojik dozu Sapareto-Dewey modeliyle hesaplayan Python tabanlı medikal yazılım aracı.
+### 1️⃣ KOKEN CEM43 Toolkit v2 — Klinik Hipertermi Karar Destek Sistemi
+* **Açıklama:** Kanser ısı tedavisinde (Hipertermi) doku hassasiyet eşiklerine göre kümülatif biyolojik dozu hesaplayan Python tabanlı klinik araç seti.
 * **Proje Bağlantısı:** [GitHub Deposu (Repository)](https://github.com) 
-* **Akademik Arşiv:** [Zenodo Yayın Sayfası (376+ İndirme)](https://zenodo.org)
+* **Akademik Arşiv:** [Zenodo Resmi DOI Arşivi](https://zenodo.org)
 
 ### 2️⃣ Periferik ve Merkezi Etkinlik Ayrışması (Biomedical Preprint)
-* **Açıklama:** İnkretin mekanizmaları ve biyomedikal bağlamda periferik/merkezi etkinlik ayrışması üzerine akademik makale çalışması.
+* **Açıklama:** İnkretin mekanizmaları ve biyomedikal bağlamda periferik/merkezi etkinlik ayrışması üzerine akademik makale ve reseptör analizi çalışması.
 * **Proje Bağlantısı:** [GitHub Deposu (Repository)](https://github.com)
 
 ### 3️⃣ Plasebo Gerçek Terapidir (Etimolojik, Fenomenolojik & Psikolojik Analiz)
