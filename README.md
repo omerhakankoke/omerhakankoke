@@ -1,26 +1,44 @@
-# 👋 Şevval Emine Köken — Akademik Araştırma Portfolyosu (Academic Research Portfolio)
-**Gazi Üniversitesi Tıp Fakültesi | Dönem 1 Öğrencisi (Faculty of Medicine, 1st Year Student)** 
-*Hesaplamalı Tıp (Computational Medicine), Onkolojik Doz Modellemesi ve Açık Bilim (Open Science) Araştırmacısı*
+<div align="center">
+
+# 🩺 Ömer Hakan Köken & Şevval Emine Köken
+### Translational Pharmacology • Clinical Decision Support Systems • Open Science
+
+[![ORCID Ömer](https://shields.io)](https://orcid.org)
+[![ORCID Şevval](https://shields.io)](https://orcid.org)
+[![Figshare](https://shields.io)](https://figshare.com)
+[![Zenodo](https://shields.io)](https://zenodo.org)
+
+</div>
 
 ---
 
-## 🔬 Bilimsel Çalışmalar, Ön Baskılar ve Açık Veri Arşivi
+### 🔬 Featured Open-Science Publications, Software & Interactive Showcases
 
-### 1️⃣ KOKEN CEM43 Toolkit v2 — Klinik Hipertermi Karar Destek Sistemi
-* **Açıklama:** Kanser ısı tedavisinde (Hipertermi) doku hassasiyet eşiklerine göre kümülatif biyolojik dozu hesaplayan Python tabanlı klinik araç seti.
-* **Kod Deposu:** [GitHub Deposu (v5.0.0)](https://github.com) 
-* **Akademik Arşiv:** [Zenodo Resmi DOI Arşivi](https://zenodo.org)
-
-### 2️⃣ Periferik ve Merkezi İnkretin Reseptör Sinyallemesi ve Etkinlik Ayrışması
-* **Açıklama:** İnkretin mekanizmaları, kan-beyin bariyeri geçiş kinetiği ve periferik/merkezi reseptör farmakodinamiği üzerine nöro-metabolik analiz.
-* **Tam Metin Makale:** [PsyArXiv Ön Baskı Yayını (Preprint)](https://osf.io)
-* **Veri ve Analiz Deposu:** [GitHub Deposu (v2.0.0)](https://github.com)
-
-### 3️⃣ Plasebo Gerçek Terapidir: Etimolojik, Fenomenolojik ve Klinik Kohort Analizi
-* **Açıklama:** Bağlamsal iyileşmenin disiplinler arası analizi, biyoistatistik protokolü ve klinik kohort simülasyonu açık veri seti.
-* **Tam Metin Makale:** [PsyArXiv Ön Baskı Yayını (Preprint)](https://osf.io)
-* **Veri Sözlüğü ve Simülasyon:** [GitHub Deposu (v2.0.0)](https://github.com)
+#### 1. Peripheral-Central Efficacy Decoupling of Incretin-Based Therapies (2016–2026)
+> *A Mechanistic Narrative Review Across the Cardio-Hepatic Axis and the Neurodegenerative Brain*  
+* **Authors:** **Şevval Emine Köken**, **Ömer Hakan Köken**
+* **Interactive Preprint (Figshare):** [![DOI](https://shields.io)](https://doi.org)
 
 ---
-⚙️ *Bu portfolyo, Open Science (Açık Bilim) girişimleri kapsamında güncel tutulmaktadır.*  
-📩 **İletişim:** Gazi Üniversitesi Tıp Fakültesi, Ankara, Türkiye.
+
+#### 2. Incretin Receptor Signaling & Pharmacodynamic Analysis (v2.0.0)
+> *Multi-Axis Receptor Comparison (Beta Cells, Vagal Afferents, ARC/AP) & BBB Permeability Kinetics*  
+* **Authors:** **Ömer Hakan Köken**, **Şevval Emine Köken**
+* **Interactive Dataset (Figshare):** [![DOI](https://shields.io)](https://doi.org)
+* **Archival Record (Zenodo):** [![DOI](https://shields.io)](https://doi.org)
+* **Source Repository:** [KOKEN-Incretin-Efficacy-Decoupling](https://github.com)
+
+---
+
+#### 3. KOKEN-CEM43-Toolkit: Clinical Decision Support System (v5.0.0)
+> *Cumulative Equivalent Minutes at 43°C (CEM43) Thermal Dose Engine & Tissue Safety Monitoring*  
+* **Authors:** **Ömer Hakan Köken**, **Şevval Emine Köken**
+* **Interactive Software (Figshare):** [![DOI](https://shields.io)](https://doi.org)
+* **Archival Record (Zenodo):** [![DOI](https://shields.io)](https://doi.org)
+* **Source Repository:** [KOKEN-CEM43-Toolkit](https://github.com)
+
+---
+
+### 📊 Research Focus & Technical Stack
+* **Core Domains:** Translational Pharmacology, Neuroendocrinology, Hyperthermia Oncology, Biomedical Informatics, Clinical Decision Support Systems (CDSS).
+* **Open-Science Ecosystem:** All datasets, preprints, and computational tools are permanently archived with DataCite DOIs under **CC BY 4.0** licensing and synchronized with **ORCID**.
